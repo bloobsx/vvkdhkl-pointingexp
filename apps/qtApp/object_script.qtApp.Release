@@ -1,0 +1,12 @@
+INPUT(
+./release\QsLogDest.o
+./release\QsLog.o
+./release\QsLogDestConsole.o
+./release\QsLogDestFile.o
+./release\QsLogDestFunctor.o
+./release\BallisticsPlayground.o
+./release\sessionmanager.o
+./release\moc_QsLogDestFunctor.o
+./release\moc_BallisticsPlayground.o
+./release\moc_sessionmanager.o
+);

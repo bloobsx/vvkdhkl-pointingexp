@@ -1,0 +1,6 @@
+QMAKE_PRL_BUILD_DIR = /media/vvkdhkl/New Volume/vvkdhkl-pointingexp-1433e939ccd6/pointing
+QMAKE_PRO_INPUT = pointing.pro
+QMAKE_PRL_TARGET = libpointing.a
+QMAKE_PRL_CONFIG = include_source_dir lex yacc warn_on uic resources warn_on release incremental link_prl gdb_dwarf_index def_files_disabled exceptions no_mocdepend release stl qt_no_framework staticlib create_prl pointing_xorg static staticlib
+QMAKE_PRL_VERSION = 1.0.0
+QMAKE_PRL_LIBS =   -ludev -lpthread -lXrandr -lX11 -ldl -lXi  
